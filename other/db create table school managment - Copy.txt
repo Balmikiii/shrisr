@@ -1,0 +1,78 @@
+octupation : student/teacher/driver/warden/others
+user:biiiii
+pwd:*******
+
+Name:	Jessia Rose
+img:picture
+Gender:	Female
+Father Name:	Fahim Rahman
+Mother Name:	Jannatul Kazi
+Date Of Birth:	07.08.2006
+Religion:	Islam
+Father Occupation:	Graphic Designer
+E-Mail:	jessiarose@gmail.com
+Admission Date:	05.01.2019
+from promoted:1
+currunt Class:	3
+Section:	Pink
+Roll:	10005
+Adress:	House #10, Road #6, Australia
+Phone:	+ 88 9856418
+2 phone:emergancy
+Admission Id:#0021
+admision date:
+leave date:
+Short BIO: some cooment
+amount: due red btn/pay green btn
+date: feed payment date
+
+transport:yes/no
+destination:
+vehicle no:11111(primary key auto matic find frome table)
+
+hostel:yes/no
+hostel id	room
+
+
+
+teacher------------
+subject:eng,hindi,math
+class:2nd,3rd,5th
+salary:8000
+paymnet amount:
+status:paid\unpaid
+pendig:salary-currunt
+payment date:auto
+
+libray-----
+ID
+Book Name
+Subject
+Writter
+Class
+Published
+Creating Date
+
+attandance--------
+id:
+present/no:true false
+current date():
+
+notification-----------
+file:upload
+delete file:1.5 yeras autmoatic
+
+
+test-----
+total test:
+test date:
+test number: 80/100
+
+Transport-----------
+
+Vehicle No	Route Name	Driver Name	Driver License	Contact Number
+
+
+hostel--------
+hostel id	hostel name	warden name	contact	    email	total room	booked room
+1111		boy/girl

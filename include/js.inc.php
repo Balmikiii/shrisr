@@ -1,0 +1,16 @@
+<script src="assets/js/jquery-3.3.1.min.js"></script>
+<script src="assets/js/plugins.js"></script>
+<script src="assets/js/popper.min.js"></script>
+<script src="assets/js/bootstrap.min.js"></script>
+<script src="assets/js/jquery.counterup.min.js"></script>
+<script src="assets/js/moment.min.js"></script>
+<script src="assets/js/jquery.waypoints.min.js"></script>
+<script src="assets/js/jquery.scrollUp.min.js"></script>
+<script src="assets/js/fullcalendar.min.js"></script>
+<script src="assets/js/Chart.min.js"></script>
+<script src="assets/js/main.js"></script>
+<script src="assets/js/select2.min.js"></script>
+<script src="assets/js/datepicker.min.js"></script>
+<script src="assets/js/google-marker-map.js"></script>
+<script src="assets/js/jquery.dataTables.min.js"></script>
+<script src="assets/js/modernizr-3.6.0.min.js"></script>

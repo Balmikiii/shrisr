@@ -1,0 +1,4 @@
+<?php include 'include/css.inc.php';?>
+<?php include 'include/header_menu.inc.php';?>
+<?php include 'include/sidebar.inc.php';?>
+<?php include 'include/js.inc.php';?>

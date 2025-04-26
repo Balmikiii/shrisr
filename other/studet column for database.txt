@@ -1,0 +1,36 @@
+userid
+pwd
+identity : student			>
+first name
+middle name	
+last name
+f.name					
+m.name					
+gender
+dob
+class
+class roll
+section
+adhaar
+blood group	
+religion
+email
+phone1
+phone2					
+sort bio
+image
+father occupation		
+joining date			
+joining class
+currunt class			
+school leave date		
+class id : fees k liye	
+payment date 
+payment amount
+pending
+transport :(transport id) not null show yes	
+destination			
+vehicle no.
+hostler : hostal id (yes)	*
+hostel name :
+room :
